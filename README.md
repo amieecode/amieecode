@@ -1,13 +1,12 @@
-### Hi there
+### Hi, I am Enwelum Chiamaka
 
+### Learner. Student. Data lover
 
-Here are some ideas to get you started:
+I started as a wordpress developer but so fond of analysing business and then I learned about the field of Data from one of the classes I had in College which was about basics of Machine Learning and was instantly hooked. Currently learning about data science, Machine Learning and analyst tools like Power Bi, Tableau, cognos analytics.
 
-- 🔭 I’m currently working on something cool and things I love doing 
-- 🌱 I’m currently learning Software development and Data science 
-- 👯 I’m looking to collaborate on Tech and Business related to data science 
-- 🤔 I’m looking for help with growing my Data science career 
-- 💬 Ask me about anything 
-- 📫 How to reach me: Telegram @Amaka Anastasia 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love playing Tennis and decovery new things 
+🧠 I'm learning everything related to Data industry.
+🤝 I'm open to collaborating on Machine Learning models, Bi dashboards.
+👯 I’m looking to collaborate on Tech and Business related to data science 
+🤔 I’m looking for help with growing my Data science career 
+
+⚡ Fun fact: I love playing Tennis and decovery new things 
