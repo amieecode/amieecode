@@ -1,8 +1,36 @@
-# 💫 About Me:
-<br> Welcome to my coding realm! I'm Enwelum Chiamaka, an entry-level Django developer passionate about turning lines of code into solutions that matter. I hope to learn, unlearn, and relearn as I document my progress.
+# 👋 Hello, I'm Chiamaka!
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enwelum-chiamaka) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Amaka21060781) 
+As a computer scientist, I specialize in applying problem-solving concepts from my tech background to simplify complex ideas for effective communication. My passion lies in the realm of data storytelling and visualization, where I believe that well-visualized data can tell fascinating stories.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver
+## 💻 Tech Stack
+
+I'm proficient in a range of technologies, including:
+
+- **Python Stack:** Django, RestApi, ![Pandas](https://img.shields.io/badge/-Pandas-blue?logo=pandas&logoColor=white), ![Numpy](https://img.shields.io/badge/-Numpy-orange?logo=numpy&logoColor=white), ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?logo=matplotlib&logoColor=white), ![Seaborn](https://img.shields.io/badge/-Seaborn-blue?logo=seaborn&logoColor=white), ![Scipy](https://img.shields.io/badge/-Scipy-blue?logo=scipy&logoColor=white), ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-orange?logo=scikit-learn&logoColor=white).
+- **Data Tools:** ![Excel](https://img.shields.io/badge/-Excel-green?logo=microsoft-excel&logoColor=white), ![SQL](https://img.shields.io/badge/-SQL-blue?logo=mysql&logoColor=white), ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=power-bi&logoColor=white), ![IBM Cognos](https://img.shields.io/badge/-IBM%20Cognos-blue?logo=ibm&logoColor=white).
+- **Version Control:** ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=github&logoColor=white).
+- **Command Line:** ![Shell](https://img.shields.io/badge/-Shell-black?logo=linux&logoColor=white).
+
+## 🚀 Achieving Tangible Outcomes
+
+My primary goal is to deliver outcomes that can be put into practice. I excel in ensuring stakeholders comprehend findings by simplifying complex analyses into easily absorbed information. My contributions to data-driven projects are marked by programming prowess, storytelling abilities, analytical skills, and attention to detail.
+
+## 🌐 Beyond Data Analysis
+
+In addition to my data-centric skills, I am adept at writing proficient codes with Django, one of Python's powerful frameworks. My ability to contribute to various aspects of a project sets me apart.
+
+## 📊 Keywords
+
+- Data Analysis
+- Data Visualization
+- Machine Learning
+- Business Intelligence
+- Problem-solving
+- Decision-Making
+- Statistical Skills
+
+## 🌟 Let's Connect
+
+I'm open to collaboration, discussions, and new opportunities. Feel free to reach out for any data-related endeavors!
+
+Happy coding! 
