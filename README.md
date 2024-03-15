@@ -7,7 +7,7 @@ As a computer scientist, I specialize in applying problem-solving concepts from 
 I'm proficient in a range of technologies, including:
 
 - **Python Stack:** Django, RestApi, Pandas, Numpy, Matplotlib, Seaborn, Scipy, and Sklearn.
-- **React:** Vite, Tailwindcss, CSS, JS.
+- **Developer Tool:** React, Tailwindcss, CSS, JS, HTML
 - **Data Tools:** Excel, SQL, Power BI, IBM Cognos.
 - **Version Control:** Git and GitHub.
 - **Command Line:** Shell.
@@ -22,6 +22,7 @@ In addition to my data-centric skills, I am adept at writing proficient codes wi
 
 ## 📊 Keywords
 
+- Front End Development 
 - Data Analysis
 - Data Visualization
 - Machine Learning
