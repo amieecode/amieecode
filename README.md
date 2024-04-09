@@ -6,11 +6,11 @@ A Web Developer and machine learning Lover
 
 I'm proficient in a range of technologies, including:
 
-- **Python Stack:** Django, RestApi, Pandas, Numpy, Matplotlib, Seaborn, Scipy, plotly, and Sklearn.
-- **Developer Tool:** React, Tailwindcss, JS, 
+- **FrontEnd Development:** React.js, Tailwindcss, JS,vite.
+- **BackEnd Development:** Django,
 - **Data Tools:** Excel, SQL, Power BI, IBM Cognos.
 - **Version Control:** Git and GitHub.
-- **Command Line:** Shell.
+- **Python Stack:** Django, RestAPI, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Plotly, Dash, Sklearn.
 
 ## Achieving Tangible Outcomes
 
@@ -20,14 +20,8 @@ My primary goal is to deliver outcomes that can be put into practice. I excel in
 
 In addition to my data-centric skills, I am adept at writing proficient codes with Django, one of Python's powerful frameworks. My ability to contribute to various aspects of a project sets me apart.
 
-## 📊 Keywords
-
-- Front End Developer
-- Machine Learning
-- Back End loading...
-
 ## 🌟 Let's Connect
 
-I'm open to collaboration, discussions, and new opportunities. Feel free to reach out for any data-related endeavors!
+I'm open to collaboration, discussions, and new opportunities. Feel free to reach out!
 
 Happy coding! 
