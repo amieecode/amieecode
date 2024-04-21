@@ -15,8 +15,8 @@ I'm proficient in a range of technologies, including:
 
 ## ✨ Fun Facts
 
+- I love tour and adventure.
 - As a kid, I wanted to be a Nurse.
-- I don't like watching anime.
 
 ## 📫 Contact
 
