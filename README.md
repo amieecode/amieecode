@@ -15,7 +15,7 @@ I'm proficient in a range of technologies, including:
 
 ## ✨ Fun Facts
 
-- I love Tour and Adventure.
+- I love traveling and exploring new places.
 - As a kid, I wanted to be a Nurse.
 
 ## 📫 Contact
