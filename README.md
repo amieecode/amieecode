@@ -7,7 +7,7 @@ A Web Developer and machine learning Lover
 I'm proficient in a range of technologies, including:
 
 - **FrontEnd Development:** React.js, Tailwindcss, JS, CSS, HTML.
-- **BackEnd Development:** Django,
+- **BackEnd Development:** Django(Coming Soon)
 - **Data Tools:** Excel, SQL, Power BI, IBM Cognos.
 - **Version Control:** Git and GitHub.
 - **Python Stack:** Django, RestAPI, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Plotly, Dash, Sklearn.
