@@ -10,13 +10,13 @@ I'm proficient in a range of technologies, including:
 - **BackEnd Development:** Django(Coming Soon)
 - **Data Tools:** Excel, SQL, Power BI, IBM Cognos.
 - **Version Control:** Git and GitHub.
-- **Python Stack:** Django, RestAPI, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Plotly, Dash, Sklearn.
+- **Python Stack:** Django*, RestAPI, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Plotly, Dash, Sklearn.
 
 
 ## ✨ Fun Facts
 
 - I love traveling and exploring new places.
-- As a kid, I wanted to be a Nurse.
+- As a kid, I wanted to be in the Medicial Field.
 
 ## 📫 Contact
 
