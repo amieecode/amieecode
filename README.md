@@ -4,7 +4,7 @@ A Web Developer and machine learning Lover
 
 ## 📦 Toolbox
 
-I'm proficient in a range of technologies, including:
+I'm experienced in a range of technologies, including:
 
 - **FrontEnd Development:** React.js, Tailwindcss, JS, CSS, HTML.
 - **BackEnd Development:** Django(Coming Soon)
