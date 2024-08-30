@@ -15,6 +15,7 @@ I'm experienced in a range of technologies, including:
 
 ## ✨ Fun Facts
 
+- Always curious to know and eager to learn.
 - I love traveling and exploring new places.
 - As a kid, I wanted to be in the Medical Field.
 
