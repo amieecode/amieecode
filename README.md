@@ -10,7 +10,7 @@ I'm experienced in a range of technologies, including:
 - **BackEnd Development:** Django(Coming Soon)
 - **Data Tools:** Excel, SQL, Power BI, IBM Cognos.
 - **Version Control:** Git and GitHub.
-- **Python Stack:** Pandas, Numpy, Matplotlib, Seaborn, Scipy, Plotly, Dash, Sklearn.
+  
 
 
 ## ✨ Fun Facts
