@@ -7,8 +7,8 @@ A Web Developer and machine learning Lover
 I'm experienced in a range of technologies, including:
 
 - **FrontEnd:** React.js, Tailwindcss, JS, CSS, HTML.
-- **BackEnd:** Django(Coming Soon)
-- **Data Tools:** Excel, SQL, Power BI, IBM Cognos.
+- **BackEnd:** Python, Django(Coming Soon)
+- **Data Tools:** Excel, SQL, Power BI, Tableau, Google Looker Studio, IBM Cognos.
 - **Version Control:** Git and GitHub.
   
 
