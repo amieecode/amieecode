@@ -1,6 +1,6 @@
 #  Hey, I'm Chiamaka 👋
 
-A Web Developer and machine learning Lover
+A Data analyst and machine learning Lover
 
 ## 📦 Toolbox
 
